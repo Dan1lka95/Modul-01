@@ -1,0 +1,10 @@
+@import 'font';
+@import 'var';
+
+
+body{
+	font-family: $font;
+}
+h1{
+	color:$accent;
+}
